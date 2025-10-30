@@ -1,5 +1,7 @@
-streamlit==1.38.0
-pymupdf==1.24.10
-pytesseract==0.3.13
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
+streamlit
+PyMuPDF==1.24.10
+pytesseract
+Pillow
+opencv-python-headless
+numpy
+pandas
